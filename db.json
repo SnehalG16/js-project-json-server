@@ -1,0 +1,75 @@
+{
+  "pitches": [
+    {
+      "title": "Booz scooters",
+      "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
+      "founder": "Rutvij Dasadia ",
+      "category": "Education",
+      "price": "800",
+      "id": "9"
+    },
+    {
+      "image": "https://www.cocofit.in/images/Picture4_large.png",
+      "price": "90",
+      "percentage": 3.5,
+      "description": "We strive, respect and work hard every second taking our demigod to a new level with a delicious serving that would be a life changing experience.",
+      "founder": "Sashi Kanth V",
+      "category": "Food",
+      "year": "17-11-2017",
+      "title": "Cocofit",
+      "id": "11"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+      "price": 26,
+      "percentage": 2.56,
+      "description": "Falhari is India’s #1 fresh fruit products brand with an extensive range of delightful, made-to-order recipes of Salads, Juices, Smoothies, Lassis, Yoghurts, and more",
+      "founder": "Rahul Shankar Bhardwaj",
+      "category": "Food",
+      "year": "20-12-2021",
+      "title": "Falhari",
+      "id": "13"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 57,
+      "percentage": 2,
+      "description": "aradyes is a semi-permanent hair color brand. She introduced the brand by identifying a gap in the market. Banking on her family business of dyes and intermediates, she teamed up with professionals and began R&D to formulate hair colors in their lab.",
+      "founder": "Yushika Jolly,",
+      "category": "Personal Care",
+      "year": "01-07-2021",
+      "title": "Paradyes",
+      "id": "16"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/610d1RfgHDL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 100,
+      "percentage": 1.5,
+      "description": "A small device that can be attached to any normal stethoscope and the stethoscope will become a digital one. Using this device it can reduce background noise, better audio, and visual clarity, and after all, one can get the live stream of data. ",
+      "founder": "Adarsha K",
+      "category": "Electronics",
+      "year": "12-22-2014",
+      "title": "AyuSynk",
+      "id": "17"
+    },
+    {
+      "id": "32d1",
+      "title": "head",
+      "price": "150",
+      "founder": "snehal",
+      "category": "high",
+      "image": "https://m.media-amazon.com/images/I/61pq3ae629L._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1060",
+      "title": "Cocofit    ",
+      "price": "25    ",
+      "founder": "Sashi Kanth V    ",
+      "category": "Food    ",
+      "image": "https://www.cocofit.in/images/Picture4_large.png    ",
+      "description": null
+    }
+  ]
+}
